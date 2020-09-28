@@ -1,0 +1,3 @@
+The main code will be in master.
+One have to create branches (i.e not working on main code,but working on the copy of code) and push(commit the changes) after you feel your execution was correct.
+Then one should raise pull request (asking master to make changes in sourcecode with code you have done).He/she will leave any comments if required and one should resolve.After that you would be able to merge branches and delete branch
